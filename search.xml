@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>More</title>
+    <url>/2021/04/27/more/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>More</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/04/27/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><hr>
+<p>shit</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Research</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>test_my_site</title>
+    <url>/2021/04/27/test-my-site/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Publications</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Physical-layer Security Technologies and Applications for B5G and 6G</title>
+    <url>/2021/04/28/vtc/</url>
+    <content><![CDATA[<p><img src="D:\pagepictures\mmexport1618999086694" alt="avatar"></p>
+<h2 id="DISCRIPTION"><a href="#DISCRIPTION" class="headerlink" title="DISCRIPTION"></a>DISCRIPTION</h2><hr>
+<p>  <em>This workshop 2021 mainly focuses on the development of physical-layer security (PLS) technologies and its potential applications for the future beyond fifth-generation (B5G) and sixth-generation (6G) networks. The tremendous growth in connectivity and the ubiquity of wireless communications has resulted in an unprecedented awareness of the importance of security. Achieving secure communications is vital for the deployment of future intelligent connected applications, especially life-critical vehicle-to-everything (V2X) applications. However, the heterogeneous, dynamic and decentralized architecture of these networks leads to difficulties for cryptographic key management and distribution. By exploiting the physical characteristics of devices, wireless channels and noise, PLS offers reliable solutions against eavesdropper attacks as complementary approaches to cryptographic techniques.<br>  The workshop aims at sharing the advancements in the PLS field and spreading the adoption in scenarios of B5G and 6G. In order to spark more ideas and future research, we will invite experts and scholars in relevant fields around the world to share their insights into the topics of physical layer security model, mechanism and applications in B5G and 6G networks. We hope to foster an exchange of research results, experiences, and products in the physical layer security domain from both a theoretical and practical perspective.</em></p>
+<h2 id="OBJECTIVES"><a href="#OBJECTIVES" class="headerlink" title="OBJECTIVES"></a>OBJECTIVES</h2><hr>
+<p>  The B5G and 6G network new paradigm is still under discussion, which triggers various researches about the applications in three major scenarios: enhanced Mobile Broadband (eMBB), massive Machine Type Communication (mMTC) and Ultra Reliable Low Latency Communication (URLLC). However, security challenges arise as ultra-low latency, low complexity, high energy and spectral efficiencies need to be met in many scenarios. Unlike traditional security-guaranteeing techniques which rely on cryptographic approaches at upper layers of the protocol stack, physical-layer security (PLS) solutions exploits the utmost of the characteristics of devices, wireless channels and noise to secure authentication or data transmission via signal design and signal processing techniques. Furthermore, it’s noteworthy that the emergence of new disruptive technologies such as reconfigurable intelligent surfaces (RIS), terahertz (THz), Non Orthogonal Multiple Access (NOMA), Massive MIMO and so on, presents new opportunities and challenges for PLS. The combination of PLS and these new techniques, which realizes the integrated development of transmission and security, promises lightweight and reliable secure communication.<br>  Confronted with numerous problems which remain to be solved, our workshop aims to provide a forum for researchers and engineers from academia and industry to promote discussion on advancements of physical layer security theoretically and practically. Our ultimate goal is to envision new trends in design, implementation and evaluation of innovative solutions for physical layer security and shed lights on future B5G and 6G networks. </p>
+<hr>
+<p>  In line with such objectives, original contributions are solicited in topics of interest to include, but not limited to, the following:</p>
+<ul>
+<li><strong>Next-generation secure communication system</strong></li>
+<li><strong>Secure methodologies and architectures for B5G and 6G networks</strong></li>
+<li><strong>Advances in physical layer authentication</strong></li>
+<li><strong>Advances in physical-layer key generation and secure transmission</strong></li>
+<li><strong>PLS with the intelligent reflecting surface</strong></li>
+<li><strong>PLS for massive MIMO, mmWave, massive access, NOMA, THz</strong></li>
+<li><strong>Secure resource allocation (secure optimization, secure cross-layer optimization and game theory techniques)</strong></li>
+<li><strong>Performance of practical testbeds for PLS</strong></li>
+<li><strong>Application of PLS in V2X Networks, IoT, Smart cities, Environmental Monitoring, Intelligent Agriculture</strong></li>
+</ul>
+<h2 id="PROGRAM-OUTLINE"><a href="#PROGRAM-OUTLINE" class="headerlink" title="PROGRAM OUTLINE"></a>PROGRAM OUTLINE</h2><hr>
+<ul>
+<li>08:00 - 08:10: Welcome/Opening Address</li>
+<li>08:10 - 09:10: Keynote Talk</li>
+<li>09:10 - 10:30: Technical Session I (Four Papers - 20 minutes of presentation/discussions for each one)</li>
+<li>10:30 - 11:00: Coffee Break</li>
+<li>11:00 - 12:20: Technical Session II (Four Papers - 20 minutes of presentation/discussions for each one)</li>
+<li>Lunch<h2 id="NOVELTY"><a href="#NOVELTY" class="headerlink" title="NOVELTY"></a>NOVELTY</h2></li>
+</ul>
+<hr>
+<p>  Security is a critical issue in the implementation of wireless communication networks and thus attracts a great deal of attention in the research community. Traditionally, this issue is addressed at the upper layers via key-based cryptographic technologies. However, the key distribution requires much communication overhead, and key negotiation consumes a great number of computational and network resources for implementation of asymmetric cryptographic algorithms. There exists considerable interest in finding complementary types of security that can work on top of conventional cryptography. Meanwhile, physical-layer security based on information-theoretical security inaugurates a new idea to authentication and secure transmission, and thus is now under the spot light as a promising means to defend attacks in wireless networks.<br>  In the physical layer, the characteristics of wireless communication devices and channels can be used to identify/authenticate device identities, as well as distribute and update keys. They are both highly secure and very easy to deploy in practical applications of V2X networks. Meanwhile, beyond 5G technologies, i.e., massive MIMO, millimeter wave communication and reconfigurable intelligent surface also bring in new challenges and opportunities for physical-layer security. This calls for a compelling need to revisit the conventional PLS technologies and to design advanced energy-efficient, lightweight, secure, and low-cost PLS solutions and explore the possible applications that perfectly fit in the context of B5G and 6G eras.</p>
+<hr>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+]]></content>
+      <categories>
+        <category>VTC2021 Workshop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Biography</title>
+    <url>/2021/04/27/biography/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Biography</category>
+      </categories>
+  </entry>
+</search>
