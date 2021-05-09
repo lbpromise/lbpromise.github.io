@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Physical-layer Security Technologies and Applications for B5G and 6G</title>
-      <link href="2021/05/10/vtc/"/>
-      <url>2021/05/10/vtc/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Scopes"><a href="#Scopes" class="headerlink" title="Scopes"></a>Scopes</h2><ul><li>This workshop 2021 mainly focuses on the development of physical-layer security (PLS) technologies and its potential applications for the future beyond fifth-generation (B5G) and sixth-generation (6G) networks. The tremendous growth in connectivity and the ubiquity of wireless communications has resulted in an unprecedented awareness of the importance of security and privacy. Achieving secure and trusted communications is vital for the deployment of future intelligent connected applications, especially life-critical vehicle-to-everything (V2X) applications. However, the heterogeneous, dynamic and decentralized architecture of these networks leads to difficulties for cryptographic key management and distribution. By exploiting the physical characteristics of devices, wireless channels and noise, PLS offers reliable solutions against eavesdropper attacks as complementary approaches to cryptographic techniques.</li></ul><hr><h2 id="Topics"><a href="#Topics" class="headerlink" title="Topics"></a>Topics</h2><ul><li>Trust, security and privacy in B5G and 6G networks</li><li>Security threats and attacks on in B5G and 6G networks</li><li>Vertical-specific B5G and 6G security and privacy challenges and approaches.</li><li>Secure methodologies and architectures in B5G and 6G networks</li><li>Advances in physical layer authentication</li><li>Advances in physical-layer secure transmission</li><li>Advances in covert and stealth wireless communications </li><li>PLS with emerging technologies in B5G and 6G networks (the intelligent reflecting surface, massive MIMO, mmWave, massive access, NOMA, THz)</li><li>Prototype, testbed, and performance evaluation for PLS</li><li>Secure resource allocation (secure optimization, secure cross-layer optimization and game theory techniques) </li><li>Emerging trust and privacy technologies in B5G and 6G networks</li><li>Methods for the use of artificial intelligence in B5G and 6G security and privacy.</li><li>Application of PLS in specific domain, e.g., V2X, IoT, Smart grid, industry 4.0, in B5G and 6G</li></ul><hr><h2 id="Chairs"><a href="#Chairs" class="headerlink" title="Chairs"></a>Chairs</h2><ul><li><em><a href="https://lbpromise.github.io/categories/Biology-of-Eduard-A-Jorswiec/">Eduard A. Jorswieck</a>, Technische Universität Braunschweig, Germany</em></li><li><em><a href="https://lbpromise.github.io/2021/04/27/Guyue%20Li/">Guyue Li</a>, Southeast University, China</em></li><li><em><a href="https://lbpromise.github.io/2021/04/27/Junqing%20Zhang/">Junqing Zhang</a>, University of Liverpool, UK</em></li></ul><h2 id="Keynotes"><a href="#Keynotes" class="headerlink" title="Keynotes"></a>Keynotes</h2><ul><li><em>xianbing Wang, Wuhan University, China</em></li></ul><h2 id="Technical-Program-Committee"><a href="#Technical-Program-Committee" class="headerlink" title="Technical Program Committee"></a><a href="https://lbpromise.github.io/2021/05/08/Technical%20Program%20Coommittee/">Technical Program Committee</a></h2><hr><h2 id="Important-Dates"><a href="#Important-Dates" class="headerlink" title="Important Dates"></a>Important Dates</h2><ul><li>Paper submission deadline: June 5, 2021 </li><li>Notification of acceptance July 10, 2021 </li><li>Camera-ready deadline: July 20, 2021</li></ul><hr><p>Submission requirements: 5-page paper (without overlength charge) and up to 2 additional pages are allowed with the purchase of additional page charges in the amount of $50 USD per additional page at the time of registration and final paper submission.<br>Paper submission is open: <a href="https://vtc2021fall.trackchair.com/">https://vtc2021fall.trackchair.com/</a></p><hr>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Biology of Eduard A. Jorswiec</title>
+    <url>/2021/04/27/Eduard%20A.%20Jorswieck/</url>
+    <content><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfgj29gaj3057049q8u.jpg" alt="Eduard A. Jorswiec"></p>
+<p>  <em>Eduard A. Jorswieck, Technische Universität Braunschweig, Germany</em></p>
+<p>Eduard Axel Jorswieck (Fellow, IEEE) received the Diplom-Ingenieur (M.S.) degree and the Doktor-Ingenieur (Ph.D.) degree, both in electrical engineering and computer science, from the Technische Universitaet Berlin, Berlin, Germany, in 2000 and 2004, respectively. He was with the Broadband Mobile Communication Networks Department, Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut, Berlin, Germany, from 2000 to 2008. From 2005 to 2008, he was a Lecturer with the Technische Universitaet Berlin. From 2006 to 2008, he was with the Department of Signals, Sensors and Systems, Royal Institute of Technology, as a Postdoctoral Researcher and an Assistant Professor. From 2008 until 2019, he was the head of the Chair of Communications Theory and Full Professor at Dresden University of Technology (TUD), Germany. Since August 2019, he has been the head of the Chair for Communications Systems and Full Professor at Technische Universitaet Braunschweig, Germany. Since April 2020, he acts as managing director for the Institute of Communications Technology. Eduard’s main research interests are in the broad area of communications. He has published more than 140 journal papers, 13 book chapters, 3 monographs, and some 290 conference papers on these topics. </p>
+]]></content>
       <categories>
-          
-          <category> VTC2021 Workshop </category>
-          
+        <category>Biology of Eduard A. Jorswiec</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Biology of Eduard A. Jorswiec</title>
-      <link href="2021/04/27/Eduard%20A.%20Jorswieck/"/>
-      <url>2021/04/27/Eduard%20A.%20Jorswieck/</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfgj29gaj3057049q8u.jpg" alt="Eduard A. Jorswiec"></p><p>  <em>Eduard A. Jorswieck, Technische Universität Braunschweig, Germany</em></p><p>Eduard Axel Jorswieck (Fellow, IEEE) received the Diplom-Ingenieur (M.S.) degree and the Doktor-Ingenieur (Ph.D.) degree, both in electrical engineering and computer science, from the Technische Universitaet Berlin, Berlin, Germany, in 2000 and 2004, respectively. He was with the Broadband Mobile Communication Networks Department, Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut, Berlin, Germany, from 2000 to 2008. From 2005 to 2008, he was a Lecturer with the Technische Universitaet Berlin. From 2006 to 2008, he was with the Department of Signals, Sensors and Systems, Royal Institute of Technology, as a Postdoctoral Researcher and an Assistant Professor. From 2008 until 2019, he was the head of the Chair of Communications Theory and Full Professor at Dresden University of Technology (TUD), Germany. Since August 2019, he has been the head of the Chair for Communications Systems and Full Professor at Technische Universitaet Braunschweig, Germany. Since April 2020, he acts as managing director for the Institute of Communications Technology. Eduard’s main research interests are in the broad area of communications. He has published more than 140 journal papers, 13 book chapters, 3 monographs, and some 290 conference papers on these topics. </p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>Biology of Guyue Li</title>
+    <url>/2021/04/27/Guyue%20Li/</url>
+    <content><![CDATA[<p><img src="https://wx3.sinaimg.cn/mw690/006ph9uigy1gqcfgiufxgj30350490yv.jpg" alt="Guyue Li"></p>
+<p>  <em>Guyue Li, Southeast University, China</em></p>
+<p>Guyue Li (Member, IEEE) received the B.S. degree in information science and technology and the Ph.D. degree in information security from Southeast University, Nanjing, China, in 2011 and 2017, respectively. From June 2014 to August 2014, she was a Visiting Student with the Department of Electrical Engineering, Tampere University of Technology, Finland. She is currently an Associate Professor with the School of Cyber Science and Engineering, Southeast University. Her research interests include physical-layer security, secret key generation, radio frequency fingerprint, and link signature.</p>
+]]></content>
       <categories>
-          
-          <category> Biology of Eduard A. Jorswiec </category>
-          
+        <category>Biology of Guyue Li</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Biology of Guyue Li</title>
-      <link href="2021/04/27/Guyue%20Li/"/>
-      <url>2021/04/27/Guyue%20Li/</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://wx3.sinaimg.cn/mw690/006ph9uigy1gqcfgiufxgj30350490yv.jpg" alt="Guyue Li"></p><p>  <em>Guyue Li, Southeast University, China</em></p><p>Guyue Li (Member, IEEE) received the B.S. degree in information science and technology and the Ph.D. degree in information security from Southeast University, Nanjing, China, in 2011 and 2017, respectively. From June 2014 to August 2014, she was a Visiting Student with the Department of Electrical Engineering, Tampere University of Technology, Finland. She is currently an Associate Professor with the School of Cyber Science and Engineering, Southeast University. Her research interests include physical-layer security, secret key generation, radio frequency fingerprint, and link signature.</p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>Biology of Junqing Zhang</title>
+    <url>/2021/04/27/Junqing%20Zhang/</url>
+    <content><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfghv30ej3037049mxo.jpg" alt="Junqing Zhang"></p>
+<p>  <em>Junqing Zhang, University of Liverpool, UK</em></p>
+<p>Junqing Zhang (Member, IEEE) received the B.Eng. and M.Eng. degrees in electrical engineering from Tianjin University, China, in 2009 and 2012, respectively, and the Ph.D. degree in electronics and electrical engineering from Queen’s University Belfast, U.K., in 2016. From February 2016 to January 2018, he was a Post-Doctoral Research Fellow with Queen’s University Belfast. Since February 2018, he has been a Tenure Track Fellow (an Assistant Professor) with the University of Liverpool, U.K. His research interests include Internet of Things, wireless security, physical-layer security, key generation, and radio frequency fingerprinting identification.</p>
+]]></content>
       <categories>
-          
-          <category> Biology of Guyue Li </category>
-          
+        <category>Biology of Junqing Zhang</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Biology of Junqing Zhang</title>
-      <link href="2021/04/27/Junqing%20Zhang/"/>
-      <url>2021/04/27/Junqing%20Zhang/</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfghv30ej3037049mxo.jpg" alt="Junqing Zhang"></p><p>  <em>Junqing Zhang, University of Liverpool, UK</em></p><p>Junqing Zhang (Member, IEEE) received the B.Eng. and M.Eng. degrees in electrical engineering from Tianjin University, China, in 2009 and 2012, respectively, and the Ph.D. degree in electronics and electrical engineering from Queen’s University Belfast, U.K., in 2016. From February 2016 to January 2018, he was a Post-Doctoral Research Fellow with Queen’s University Belfast. Since February 2018, he has been a Tenure Track Fellow (an Assistant Professor) with the University of Liverpool, U.K. His research interests include Internet of Things, wireless security, physical-layer security, key generation, and radio frequency fingerprinting identification.</p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>Technical Program Committee</title>
+    <url>/2021/04/27/Technical%20Program%20Coommittee/</url>
+    <content><![CDATA[<h2 id="Technical-Program-Committee"><a href="#Technical-Program-Committee" class="headerlink" title="Technical Program Committee"></a>Technical Program Committee</h2><ul>
+<li>Arumugam Nallanathan, Queen Mary University of London, UK</li>
+<li>Aydin Sezgin, Ruhr-Universität Bochum, Germany </li>
+<li>Chen Sun, Southeast University, China</li>
+<li>Des McLernon, University of Leeds, UK</li>
+<li>Gan Zheng, Loughborough University, Loughborough, UK</li>
+<li>Gerhard Wunder, Freie Universität Berlin, Germany</li>
+<li>Huiming Wang, Xi’ an Jiaotong University, China</li>
+<li>Jinhong Yuan, The University of New South Wales, Australia</li>
+<li>Liang Jin, Information Engineering University, China</li>
+<li>Lifeng Lai, UC Davis, USA</li>
+<li>Marco Baldi, Università Politecnica delle Marche, Italy</li>
+<li>Michail Matthaiou, Queen’s University Belfast, UK</li>
+<li>Mounir Ghogho, Université Internationale de Rabat,  Morocco</li>
+<li>Phee Lep Yeoh, The University of Sydney, Australia</li>
+<li>Rafael F. Schaefer, Technische Universität Berlin, Germany</li>
+<li>Stefano Tomasin, University of Padova, Italy</li>
+<li>Tongxin Zhen, Xi’ an Jiaotong University, China</li>
+<li>Xiangyun (Sean) Zhou, Australian National University, Australia</li>
+<li>Yao-Win Peter Hong, National Tsing Hua University, China</li>
+<li>Yuanwei Liu, Queen Mary University of London, UK</li>
+<li>Zhiguo Ding, The University of Manchester, UK</li>
+</ul>
+<hr>
+]]></content>
       <categories>
-          
-          <category> Biology of Junqing Zhang </category>
-          
+        <category>Technical Program Committee</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Technical Program Committee</title>
-      <link href="2021/04/27/Technical%20Program%20Coommittee/"/>
-      <url>2021/04/27/Technical%20Program%20Coommittee/</url>
-      
-        <content type="html"><![CDATA[<h2 id="Technical-Program-Committee"><a href="#Technical-Program-Committee" class="headerlink" title="Technical Program Committee"></a>Technical Program Committee</h2><ul><li>Arumugam Nallanathan, Queen Mary University of London, UK</li><li>Aydin Sezgin, Ruhr-Universität Bochum, Germany </li><li>Chen Sun, Southeast University, China</li><li>Des McLernon, University of Leeds, UK</li><li>Gan Zheng, Loughborough University, Loughborough, UK</li><li>Gerhard Wunder, Freie Universität Berlin, Germany</li><li>Huiming Wang, Xi’ an Jiaotong University, China</li><li>Jinhong Yuan, The University of New South Wales, Australia</li><li>Liang Jin, Information Engineering University, China</li><li>Lifeng Lai, UC Davis, USA</li><li>Marco Baldi, Università Politecnica delle Marche, Italy</li><li>Michail Matthaiou, Queen’s University Belfast, UK</li><li>Mounir Ghogho, Université Internationale de Rabat,  Morocco</li><li>Phee Lep Yeoh, The University of Sydney, Australia</li><li>Rafael F. Schaefer, Technische Universität Berlin, Germany</li><li>Stefano Tomasin, University of Padova, Italy</li><li>Tongxin Zhen, Xi’ an Jiaotong University, China</li><li>Xiangyun (Sean) Zhou, Australian National University, Australia</li><li>Yao-Win Peter Hong, National Tsing Hua University, China</li><li>Yuanwei Liu, Queen Mary University of London, UK</li><li>Zhiguo Ding, The University of Manchester, UK</li></ul><hr>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>Physical-layer Security Technologies and Applications for B5G and 6G</title>
+    <url>/2021/05/10/vtc/</url>
+    <content><![CDATA[<h2 id="Scopes"><a href="#Scopes" class="headerlink" title="Scopes"></a>Scopes</h2><ul>
+<li>This workshop 2021 mainly focuses on the development of physical-layer security (PLS) technologies and its potential applications for the future beyond fifth-generation (B5G) and sixth-generation (6G) networks. The tremendous growth in connectivity and the ubiquity of wireless communications has resulted in an unprecedented awareness of the importance of security and privacy. Achieving secure and trusted communications is vital for the deployment of future intelligent connected applications, especially life-critical vehicle-to-everything (V2X) applications. However, the heterogeneous, dynamic and decentralized architecture of these networks leads to difficulties for cryptographic key management and distribution. By exploiting the physical characteristics of devices, wireless channels and noise, PLS offers reliable solutions against eavesdropper attacks as complementary approaches to cryptographic techniques.</li>
+</ul>
+<hr>
+<h2 id="Topics"><a href="#Topics" class="headerlink" title="Topics"></a>Topics</h2><ul>
+<li>Trust, security and privacy in B5G and 6G networks</li>
+<li>Security threats and attacks on in B5G and 6G networks</li>
+<li>Vertical-specific B5G and 6G security and privacy challenges and approaches.</li>
+<li>Secure methodologies and architectures in B5G and 6G networks</li>
+<li>Advances in physical layer authentication</li>
+<li>Advances in physical-layer secure transmission</li>
+<li>Advances in covert and stealth wireless communications </li>
+<li>PLS with emerging technologies in B5G and 6G networks (the intelligent reflecting surface, massive MIMO, mmWave, massive access, NOMA, THz)</li>
+<li>Prototype, testbed, and performance evaluation for PLS</li>
+<li>Secure resource allocation (secure optimization, secure cross-layer optimization and game theory techniques) </li>
+<li>Emerging trust and privacy technologies in B5G and 6G networks</li>
+<li>Methods for the use of artificial intelligence in B5G and 6G security and privacy.</li>
+<li>Application of PLS in specific domain, e.g., V2X, IoT, Smart grid, industry 4.0, in B5G and 6G</li>
+</ul>
+<hr>
+<h2 id="Chairs"><a href="#Chairs" class="headerlink" title="Chairs"></a>Chairs</h2><ul>
+<li><em><a href="https://lbpromise.github.io/categories/Biology-of-Eduard-A-Jorswiec/">Eduard A. Jorswieck</a>, Technische Universität Braunschweig, Germany</em></li>
+<li><em><a href="https://lbpromise.github.io/2021/04/27/Guyue%20Li/">Guyue Li</a>, Southeast University, China</em></li>
+<li><em><a href="https://lbpromise.github.io/2021/04/27/Junqing%20Zhang/">Junqing Zhang</a>, University of Liverpool, UK</em></li>
+</ul>
+<h2 id="Keynotes"><a href="#Keynotes" class="headerlink" title="Keynotes"></a>Keynotes</h2><ul>
+<li><em>xianbing Wang, Wuhan University, China</em></li>
+</ul>
+<h2 id="Technical-Program-Committee"><a href="#Technical-Program-Committee" class="headerlink" title="Technical Program Committee"></a><a href="https://lbpromise.github.io/2021/04/27/Technical%20Program%20Coommittee/">Technical Program Committee</a></h2><hr>
+<h2 id="Important-Dates"><a href="#Important-Dates" class="headerlink" title="Important Dates"></a>Important Dates</h2><ul>
+<li>Paper submission deadline: June 5, 2021 </li>
+<li>Notification of acceptance July 10, 2021 </li>
+<li>Camera-ready deadline: July 20, 2021</li>
+</ul>
+<hr>
+<p>Submission requirements: 5-page paper (without overlength charge) and up to 2 additional pages are allowed with the purchase of additional page charges in the amount of $50 USD per additional page at the time of registration and final paper submission.<br>Paper submission is open: <a href="https://vtc2021fall.trackchair.com/">https://vtc2021fall.trackchair.com/</a></p>
+<hr>
+]]></content>
       <categories>
-          
-          <category> Technical Program Committee </category>
-          
+        <category>VTC2021 Workshop</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>More</title>
-      <link href="2021/04/27/more/"/>
-      <url>2021/04/27/more/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>More</title>
+    <url>/2021/04/27/more/</url>
+    <content><![CDATA[]]></content>
       <categories>
-          
-          <category> More </category>
-          
+        <category>More</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-  
-  
+  </entry>
 </search>
