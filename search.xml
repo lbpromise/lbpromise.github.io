@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Biology of Junqing Zhang</title>
+    <url>/2021/04/27/Junqing%20Zhang/</url>
+    <content><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfghv30ej3037049mxo.jpg" alt="Junqing Zhang"></p>
+<p>  <em>Junqing Zhang, University of Liverpool, UK</em></p>
+<p>Junqing Zhang (Member, IEEE) received the B.Eng. and M.Eng. degrees in electrical engineering from Tianjin University, China, in 2009 and 2012, respectively, and the Ph.D. degree in electronics and electrical engineering from Queen’s University Belfast, U.K., in 2016. From February 2016 to January 2018, he was a Post-Doctoral Research Fellow with Queen’s University Belfast. Since February 2018, he has been a Tenure Track Fellow (an Assistant Professor) with the University of Liverpool, U.K. His research interests include Internet of Things, wireless security, physical-layer security, key generation, and radio frequency fingerprinting identification.</p>
+]]></content>
+      <categories>
+        <category>Biology of Junqing Zhang</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Biology of Eduard A. Jorswiec</title>
     <url>/2021/04/27/Eduard%20A.%20Jorswieck/</url>
     <content><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfgj29gaj3057049q8u.jpg" alt="Eduard A. Jorswiec"></p>
@@ -20,17 +31,6 @@
 ]]></content>
       <categories>
         <category>Biology of Guyue Li</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Biology of Junqing Zhang</title>
-    <url>/2021/04/27/Junqing%20Zhang/</url>
-    <content><![CDATA[<p><img src="https://wx1.sinaimg.cn/mw690/006ph9uigy1gqcfghv30ej3037049mxo.jpg" alt="Junqing Zhang"></p>
-<p>  <em>Junqing Zhang, University of Liverpool, UK</em></p>
-<p>Junqing Zhang (Member, IEEE) received the B.Eng. and M.Eng. degrees in electrical engineering from Tianjin University, China, in 2009 and 2012, respectively, and the Ph.D. degree in electronics and electrical engineering from Queen’s University Belfast, U.K., in 2016. From February 2016 to January 2018, he was a Post-Doctoral Research Fellow with Queen’s University Belfast. Since February 2018, he has been a Tenure Track Fellow (an Assistant Professor) with the University of Liverpool, U.K. His research interests include Internet of Things, wireless security, physical-layer security, key generation, and radio frequency fingerprinting identification.</p>
-]]></content>
-      <categories>
-        <category>Biology of Junqing Zhang</category>
       </categories>
   </entry>
   <entry>
@@ -66,6 +66,14 @@
       </categories>
   </entry>
   <entry>
+    <title>More</title>
+    <url>/2021/04/27/more/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>More</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Physical-layer Security Technologies and Applications for B5G and 6G</title>
     <url>/2021/05/10/vtc/</url>
     <content><![CDATA[<h2 id="Scopes"><a href="#Scopes" class="headerlink" title="Scopes"></a>Scopes</h2><ul>
@@ -89,7 +97,7 @@
 </ul>
 <hr>
 <h2 id="Chairs"><a href="#Chairs" class="headerlink" title="Chairs"></a>Chairs</h2><ul>
-<li><em><a href="https://lbpromise.github.io/categories/Biology-of-Eduard-A-Jorswiec/">Eduard A. Jorswieck</a>, Technische Universität Braunschweig, Germany</em></li>
+<li><em><a href="https://lbpromise.github.io/2021/04/27/Eduard%20A.%20Jorswieck/">Eduard A. Jorswieck</a>, Technische Universität Braunschweig, Germany</em></li>
 <li><em><a href="https://lbpromise.github.io/2021/04/27/Guyue%20Li/">Guyue Li</a>, Southeast University, China</em></li>
 <li><em><a href="https://lbpromise.github.io/2021/04/27/Junqing%20Zhang/">Junqing Zhang</a>, University of Liverpool, UK</em></li>
 </ul>
@@ -108,14 +116,6 @@
 ]]></content>
       <categories>
         <category>VTC2021 Workshop</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>More</title>
-    <url>/2021/04/27/more/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>More</category>
       </categories>
   </entry>
 </search>
