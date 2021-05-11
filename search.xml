@@ -84,14 +84,6 @@
       </categories>
   </entry>
   <entry>
-    <title>More</title>
-    <url>/2021/04/27/more/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>More</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Physical-layer Security Technologies and Applications for B5G and 6G</title>
     <url>/2021/05/10/vtc/</url>
     <content><![CDATA[<h2 id="Scopes"><a href="#Scopes" class="headerlink" title="Scopes"></a>Scopes</h2><ul>
@@ -104,6 +96,7 @@
 <li>Vertical-specific B5G and 6G security and privacy challenges and approaches.</li>
 <li>Secure methodologies and architectures in B5G and 6G networks</li>
 <li>Advances in physical layer authentication</li>
+<li>Advances in physical layer key generation</li>
 <li>Advances in physical-layer secure transmission</li>
 <li>Advances in covert and stealth wireless communications </li>
 <li>PLS with emerging technologies in B5G and 6G networks (the intelligent reflecting surface, massive MIMO, mmWave, massive access, NOMA, THz)</li>
@@ -124,9 +117,9 @@
 </ul>
 <h2 id="Technical-Program-Committee"><a href="#Technical-Program-Committee" class="headerlink" title="Technical Program Committee"></a><a href="https://lbpromise.github.io/2021/04/27/Technical%20Program%20Coommittee/">Technical Program Committee</a></h2><hr>
 <h2 id="Important-Dates"><a href="#Important-Dates" class="headerlink" title="Important Dates"></a>Important Dates</h2><ul>
-<li>Paper submission deadline: June 5, 2021 </li>
-<li>Notification of acceptance July 10, 2021 </li>
-<li>Camera-ready deadline: July 20, 2021</li>
+<li>Workshop paper submission due: 1 July 2021</li>
+<li>Acceptance notification: 22 July 2021</li>
+<li>Final paper submission due: 5 August 2021</li>
 </ul>
 <hr>
 <p>Submission requirements: 5-page paper (without overlength charge) and up to 2 additional pages are allowed with the purchase of additional page charges in the amount of $50 USD per additional page at the time of registration and final paper submission.<br>Paper submission is open: <a href="https://vtc2021fall.trackchair.com/">https://vtc2021fall.trackchair.com/</a></p>
@@ -134,6 +127,14 @@
 ]]></content>
       <categories>
         <category>VTC2021 Workshop</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>More</title>
+    <url>/2021/04/27/more/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>More</category>
       </categories>
   </entry>
 </search>
