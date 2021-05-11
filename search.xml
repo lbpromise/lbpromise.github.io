@@ -84,6 +84,14 @@
       </categories>
   </entry>
   <entry>
+    <title>More</title>
+    <url>/2021/04/27/more/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>More</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Physical-layer Security Technologies and Applications for B5G and 6G</title>
     <url>/2021/05/10/vtc/</url>
     <content><![CDATA[<h2 id="Scopes"><a href="#Scopes" class="headerlink" title="Scopes"></a>Scopes</h2><ul>
@@ -97,7 +105,7 @@
 <li>Secure methodologies and architectures in B5G and 6G networks</li>
 <li>Advances in physical layer authentication</li>
 <li>Advances in physical layer key generation</li>
-<li>Advances in physical-layer secure transmission</li>
+<li>Advances in physical layer secure transmission</li>
 <li>Advances in covert and stealth wireless communications </li>
 <li>PLS with emerging technologies in B5G and 6G networks (the intelligent reflecting surface, massive MIMO, mmWave, massive access, NOMA, THz)</li>
 <li>Prototype, testbed, and performance evaluation for PLS</li>
@@ -127,14 +135,6 @@
 ]]></content>
       <categories>
         <category>VTC2021 Workshop</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>More</title>
-    <url>/2021/04/27/more/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>More</category>
       </categories>
   </entry>
 </search>
